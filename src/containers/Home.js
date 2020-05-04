@@ -58,7 +58,7 @@ export default function Home() {
     return (
       <div className="lander">
         <h1>Scratch</h1>
-        <p>A simple note taking app</p>
+        <p>A complex note taking app</p>
       </div>
     );
   }
